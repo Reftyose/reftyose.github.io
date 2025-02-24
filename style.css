@@ -12,6 +12,20 @@ body{
     font-weight:bold;
   }
 
+  .constj{
+    color: #cc9c00;
+    font-size: 82px;
+    padding: 15px 0;
+    font-weight:bold;
+  }
+
+  .constn{
+    color: #000000;
+    font-size: 82px;
+    padding: 15px 0;
+    font-weight:bold;
+  }
+
   h2{
     color:#C0392B;
     font-size: 30px;
