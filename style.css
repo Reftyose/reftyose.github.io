@@ -66,6 +66,10 @@ body{
     margin: 0 auto;
   }
 
+  .cacaBoudin{
+    background-color: #4b4b4b83;
+  }
+
   .image-container {
     display: inline-block;
     margin-right: 10px;
